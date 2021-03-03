@@ -1,0 +1,4 @@
+﻿  My_Vector.cpp
+C:\Users\davo4\source\repos\Vector_new\Vector_new\My_Vector.cpp(53): warning C4715: 'My_Vector<char>::get': not all control paths return a value
+C:\Users\davo4\source\repos\Vector_new\Vector_new\My_Vector.cpp(53): warning C4715: 'My_Vector<int>::get': not all control paths return a value
+  Vector_new.vcxproj -> C:\Users\davo4\source\repos\Vector_new\Debug\Vector_new.exe
